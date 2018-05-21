@@ -1,0 +1,12 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: ECF8-141B
+
+ Directorio de D:\MARTIN LESTON SESTAYO\PRO\GitHubPruebas\ETS21_5_2018
+
+21/05/2018  20:08    <DIR>          .
+21/05/2018  20:08    <DIR>          ..
+21/05/2018  19:56               441 medragal13.txt
+21/05/2018  20:08                 0 medregal13-2.txt
+21/05/2018  19:47                55 README.md
+               3 archivos            496 bytes
+               2 dirs  353.509.961.728 bytes libres

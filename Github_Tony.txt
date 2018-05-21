@@ -1,0 +1,11 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: 5448-5B0C
+
+ Directorio de D:\tony\GIT\ETS21_5_2018
+
+21/05/2018  19:30    <DIR>          .
+21/05/2018  19:30    <DIR>          ..
+21/05/2018  19:30                 0 Github_Tony.txt
+21/05/2018  19:25                55 README.md
+               2 archivos             55 bytes
+               2 dirs  851.266.371.584 bytes libres

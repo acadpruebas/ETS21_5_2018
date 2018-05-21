@@ -1,0 +1,11 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: 96D2-BB59
+
+ Directorio de D:\PruebasGitHub\ETS21_5_2018
+
+21/05/2018  19:37    <DIR>          .
+21/05/2018  19:37    <DIR>          ..
+21/05/2018  19:37                 0 archivo1.txt
+21/05/2018  19:33                55 README.md
+               2 archivos             55 bytes
+               2 dirs  464.523.821.056 bytes libres

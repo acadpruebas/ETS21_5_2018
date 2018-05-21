@@ -1,0 +1,13 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: 7A02-DD86
+
+ Directorio de D:\Nuria\clon\ETS21_5_2018
+
+21/05/2018  19:58    <DIR>          .
+21/05/2018  19:58    <DIR>          ..
+21/05/2018  19:55               409 madregal-15
+21/05/2018  19:56               458 medregal-15
+21/05/2018  19:58                 0 medregal-15.txt
+21/05/2018  19:36                55 README.md
+               4 archivos            922 bytes
+               2 dirs  378.023.682.048 bytes libres

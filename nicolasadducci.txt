@@ -1,0 +1,11 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: E80B-A832
+
+ Directorio de D:\Nico\ETS\GitPractica\ETS21_5_2018
+
+21/05/2018  19:34    <DIR>          .
+21/05/2018  19:34    <DIR>          ..
+21/05/2018  19:34                 0 nicolasadducci.txt
+21/05/2018  19:31                55 README.md
+               2 archivos             55 bytes
+               2 dirs  118.994.255.872 bytes libres

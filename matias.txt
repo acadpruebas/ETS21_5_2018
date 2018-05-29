@@ -1,0 +1,11 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: C6B1-CD96
+
+ Directorio de D:\DAW\ETS\GitProyectos\PracticaForkClon\ETS21_5_2018
+
+21/05/2018  19:36    <DIR>          .
+21/05/2018  19:36    <DIR>          ..
+21/05/2018  19:36                 0 matias.txt
+21/05/2018  19:35                55 README.md
+               2 archivos             55 bytes
+               2 dirs  377.307.435.008 bytes libres

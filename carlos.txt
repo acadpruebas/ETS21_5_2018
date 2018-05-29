@@ -1,0 +1,11 @@
+ El volumen de la unidad D es ALMACEN
+ El n£mero de serie del volumen es: 6614-E5B3
+
+ Directorio de D:\Carlos DAW\CLASES ETS\GIT\compartido\ETS21_5_2018
+
+21/05/2018  19:47    <DIR>          .
+21/05/2018  19:47    <DIR>          ..
+21/05/2018  19:47                 0 carlos.txt
+21/05/2018  19:46                55 README.md
+               2 archivos             55 bytes
+               2 dirs  876.445.655.040 bytes libres
